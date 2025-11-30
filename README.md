@@ -1,43 +1,33 @@
-<!-- 🩵 Page-wide pastel gradient (simulated via banner) -->
+<!-- 🌙 Neon–Pastel Hero Banner -->
 <p align="center">
-  <img width="100%" alt="Pastel Neon Gradient Banner" src="https://github.com/user-attachments/assets/797ae85d-2eea-48e0-beed-f3d892eb9f10" />
+  <img width="100%" alt="Varshaa | AI Engineer & Civic-Tech Builder" src="https://github.com/user-attachments/assets/797ae85d-2eea-48e0-beed-f3d892eb9f10" />
 </p>
 
-<!-- 💙 Anime-style chibi avatar header (add your own chibi PNG later) -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d685ce41-f34c-4f7f-9221-3cea18b7553f"
-       alt="Chibi Varshaa Avatar"
-       width="140"
-       style="border-radius: 50%; box-shadow: 0 0 30px rgba(255,192,203,0.7);" />
-</p>
+<div align="center">
 
-<!-- 💗 3D waving text (faked with emojis + line break + shadow-ish feel) -->
-<h1 align="center">
-  💗 <span style="text-shadow: 2px 2px 0 #ff8ba7;">Hii, I’m <b>Varshaa</b></span> 👋
-</h1>
-<h3 align="center">🚀 SIH Finalist · AI Engineer · Full-Stack Developer · Civic-Tech Builder · CSBS ’25</h3>
+  <!-- animated-ish intro (typing style via SVG if you want later) -->
+  <h1>✨ Hey, I’m <b>Varshaa Selvanaryanan</b> 👋</h1>
+  <h3>🚀 SIH Finalist · AI Engineer · Full-Stack Developer · Civic-Tech Builder · CSBS ’25</h3>
 
-<!-- floating geometric shapes row -->
-<p align="center">
-  ⬡ ✦ ◆ ✧ ⬢ ✦ ◆ ✧ ⬡
-</p>
+  <!-- soft-pink glassy stats pill -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=varshaa-selva&label=Profile%20Visits&color=ff9acb&style=flat" />
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshaa-selva&label=Profile%20Visits&color=ff9acb&style=flat" />
-</p>
+  <!-- pastel quick-links row -->
+  <p>
+    <a href="https://varshaa-s.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-pastel_pink?style=for-the-badge&logo=vercel&logoColor=white&color=ff9acb" />
+    </a>
+    <a href="https://medium.com/@techtaleswithv">
+      <img src="https://img.shields.io/badge/TechTalesWithV-Blogs?style=for-the-badge&logo=medium&logoColor=white&color=8b5cf6" />
+    </a>
+    <a href="https://shorturl.at/QAgiS">
+      <img src="https://img.shields.io/badge/Resume-View_PDF?style=for-the-badge&logo=readme&logoColor=white&color=22c55e" />
+    </a>
+  </p>
 
-<!-- 💜 Glowing button effects (using bright badges) -->
-<p align="center">
-  <a href="https://varshaa-s.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-OPEN-ff9acb?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  </a>
-  <a href="https://medium.com/@techtaleswithv">
-    <img src="https://img.shields.io/badge/Blogs-TechTalesWithV-8b5cf6?style=for-the-badge&logo=medium&logoColor=ffffff" />
-  </a>
-  <a href="https://shorturl.at/QAgiS">
-    <img src="https://img.shields.io/badge/Resume-View_PDF-22c55e?style=for-the-badge&logo=readme&logoColor=ffffff" />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -49,39 +39,31 @@
 
 ---
 
+## 🤝 Let’s Build Together  
+
+- 👯 Open to: **full‑stack products**, **ML + Web integrations**, **GovTech & social‑impact systems**
+- 🌐 Portfolio: [**varshaa-s.vercel.app**](https://varshaa-s.vercel.app)
+- ✍️ Long-form: [**TechTalesWithV on Medium**](https://medium.com/@techtaleswithv)
+- 📫 Inbox: **varshaaselva@gmail.com**
+- 📄 Resume: [**View PDF**](https://shorturl.at/QAgiS)
+- ⚡ Fun fact: *At 3 AM, my code ships. I just spectate.*
+
+---
+
 ## 🏆 Licenses & Certifications  
 
-<!-- 💛 Glassmorphic skill / cert cards (simulated with emojis + grouped bullets) -->
-<div align="center">
+<p align="left">
+  <!-- pastel / ribbon-style badges -->
+  <img src="https://img.shields.io/badge/HP%20LIFE-AI%20for%20Business%20Pros-ec7aff?style=flat-square&logo=hp&logoColor=2e1065" />
+  <img src="https://img.shields.io/badge/OCI-Data%20Science%20Professional-fda4af?style=flat-square&logo=oracle&logoColor=7f1d1d" />
+  <img src="https://img.shields.io/badge/OCI-Generative%20AI%20Professional-bfdbfe?style=flat-square&logo=oracle&logoColor=172554" />
+  <img src="https://img.shields.io/badge/Oracle-AI%20Vector%20Search-a5b4fc?style=flat-square&logo=oracle&logoColor=020617" />
+</p>
 
-<table>
-  <tr>
-    <td align="left">
-      <b>🎓 HP LIFE</b><br/>
-      🪪 AI for Business Professionals (Aug 2025)<br/>
-      ✨ Focus: AI for business decision-making
-    </td>
-    <td align="left">
-      <b🟥>🟥 OCI · Data Science Pro</b><br/>
-      📊 OCI 2025 Data Science Professional (Aug 2025)<br/>
-      🤖 Focus: ML pipelines, model deployment
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <b>🟪 OCI · Generative AI Pro</b><br/>
-      🧠 OCI 2025 Generative AI Professional (Aug 2025)<br/>
-      🔮 Focus: LLMs, prompt design, gen‑AI apps
-    </td>
-    <td align="left">
-      <b>🟥 Oracle AI Vector Search</b><br/>
-      🧭 Vector Search Certified (May 2025)<br/>
-      🧩 Focus: RAG, semantic search, enterprise AI
-    </td>
-  </tr>
-</table>
-
-</div>
+- **HP LIFE** – AI for Business Professionals *(Aug 2025)*  
+- **Oracle Cloud Infrastructure 2025** – Certified Data Science Professional *(Aug 2025)*  
+- **Oracle Cloud Infrastructure 2025** – Certified Generative AI Professional *(Aug 2025)*  
+- **Oracle AI Vector Search Certified Professional** *(May 2025)*  
 
 ---
 
@@ -135,36 +117,18 @@
 
 ---
 
-## 🧰 Glassmorphic Skills Wall ✨  
+## 🧰 Tools, Tech & Magic I Use ✨  
 
-<!-- 💛 glassmorphic cards + 💚 floating shapes -->
-<p align="center">
-  ⬡ ⬢ ✧ ⬡ ⬢ ✧ ⬡
+<h3 align="left">Languages & Frameworks</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,angular,vue,nodejs,express,django,spring&perline=10" />
 </p>
 
-<table>
-  <tr>
-    <td>
+<h3 align="left">Data, ML & Cloud</h3>
 
-      <h4>🌸 Languages & Frameworks</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,angular,vue,nodejs,express,django,spring&perline=7" />
-      </p>
-
-    </td>
-    <td>
-
-      <h4>🌙 Data, ML & Cloud</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle,firebase,opencv,py,sklearn,tensorflow,pytorch,git,docker&perline=7" />
-      </p>
-
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  ✦ ◆ ✧ ✦ ◆ ✧ ✦
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle,firebase,opencv,py,sklearn,tensorflow,pytorch,git,docker&perline=10" />
 </p>
 
 ---
