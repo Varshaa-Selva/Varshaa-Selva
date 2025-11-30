@@ -1,20 +1,39 @@
-<!-- Hero with Photo -->
-<img width="1584" height="396" alt="Black Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/797ae85d-2eea-48e0-beed-f3d892eb9f10" />
-
-
-
-<h1 align="center">✨ Hey, I’m <b>Varshaa Selvanaryanan</b> 👋</h1>
-<h3 align="center">🚀 SIH Finalist · AI Engineer · Full-Stack Developer · Civic-Tech Builder · CSBS ’25</h3>
-
+<!-- 🌙 Neon–Pastel Hero Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshaa-selva&label=Profile%20Visits&color=ff69b4&style=flat" />
+  <img width="100%" alt="Varshaa | AI Engineer & Civic-Tech Builder" src="https://github.com/user-attachments/assets/797ae85d-2eea-48e0-beed-f3d892eb9f10" />
 </p>
+
+<div align="center">
+
+  <!-- animated-ish intro (typing style via SVG if you want later) -->
+  <h1>✨ Hey, I’m <b>Varshaa Selvanaryanan</b> 👋</h1>
+  <h3>🚀 SIH Finalist · AI Engineer · Full-Stack Developer · Civic-Tech Builder · CSBS ’25</h3>
+
+  <!-- soft-pink glassy stats pill -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=varshaa-selva&label=Profile%20Visits&color=ff9acb&style=flat" />
+  </p>
+
+  <!-- pastel quick-links row -->
+  <p>
+    <a href="https://varshaa-s.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-pastel_pink?style=for-the-badge&logo=vercel&logoColor=white&color=ff9acb" />
+    </a>
+    <a href="https://medium.com/@techtaleswithv">
+      <img src="https://img.shields.io/badge/TechTalesWithV-Blogs?style=for-the-badge&logo=medium&logoColor=white&color=8b5cf6" />
+    </a>
+    <a href="https://shorturl.at/QAgiS">
+      <img src="https://img.shields.io/badge/Resume-View_PDF?style=for-the-badge&logo=readme&logoColor=white&color=22c55e" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ## 🌈 About Me  
 
-💡 I turn complex, real-world problems into simple, scalable systems.  
+💡 I turn complex, real-world problems into simple, scalable systems that actually ship.  
 💻 Deeply curious about **AI x Web**, **civic-tech**, **geospatial intelligence**, and **secure, resilient infra**.  
 🛠 Obsessed with building products where **impact × innovation × simplicity** all align.
 
@@ -34,10 +53,11 @@
 ## 🏆 Licenses & Certifications  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HP%20LIFE-AI%20for%20Business%20Pros-5a2ca0?style=flat-square&logo=hp&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCI-Data%20Science%20Professional-f80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCI-Generative%20AI%20Professional-f80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-AI%20Vector%20Search-f80000?style=flat-square&logo=oracle&logoColor=white" />
+  <!-- pastel / ribbon-style badges -->
+  <img src="https://img.shields.io/badge/HP%20LIFE-AI%20for%20Business%20Pros-ec7aff?style=flat-square&logo=hp&logoColor=2e1065" />
+  <img src="https://img.shields.io/badge/OCI-Data%20Science%20Professional-fda4af?style=flat-square&logo=oracle&logoColor=7f1d1d" />
+  <img src="https://img.shields.io/badge/OCI-Generative%20AI%20Professional-bfdbfe?style=flat-square&logo=oracle&logoColor=172554" />
+  <img src="https://img.shields.io/badge/Oracle-AI%20Vector%20Search-a5b4fc?style=flat-square&logo=oracle&logoColor=020617" />
 </p>
 
 - **HP LIFE** – AI for Business Professionals *(Aug 2025)*  
@@ -96,6 +116,7 @@
 - 🎯 Role: *Requirements → Backend → UI/UX → Search workflow design*  
 
 ---
+
 ## 🧰 Tools, Tech & Magic I Use ✨  
 
 <h3 align="left">Languages & Frameworks</h3>
@@ -109,8 +130,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle,firebase,opencv,py,sklearn,tensorflow,pytorch,git,docker&perline=10" />
 </p>
-
-<!-- You can adjust the skills and order at https://skillicons.dev -->
 
 ---
 
