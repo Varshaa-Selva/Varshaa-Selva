@@ -1,5 +1,6 @@
 <!-- Hero with Photo -->
-<img width="1584" height="396" alt="Black Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/d0ac1f5e-1f27-44c3-b1f0-ad3faa639af1" />
+<img width="1584" height="396" alt="Black Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/797ae85d-2eea-48e0-beed-f3d892eb9f10" />
+
 
 
 <h1 align="center">✨ Hey there! I’m <b>Varshaa Selvanaryanan</b> 👋</h1>
