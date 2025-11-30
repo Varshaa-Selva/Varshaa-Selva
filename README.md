@@ -7,7 +7,7 @@
 
   <!-- animated-ish intro (typing style via SVG if you want later) -->
   <h1>✨ Hey, I’m <b>Varshaa Selvanaryanan</b> 👋</h1>
-  <h3>🚀 SIH Finalist · AI Engineer · Full-Stack Developer · Civic-Tech Builder · CSBS ’25</h3>
+  <h3>🚀 SIH Finalist · AI Engineer · Full-Stack Developer · Civic-Tech Builder · Final Yr . CSBS Dept</h3>
 
   <!-- soft-pink glassy stats pill -->
   <p>
