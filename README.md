@@ -3,8 +3,8 @@
 
 
 
-<h1 align="center">✨ Hey there! I’m <b>Varshaa Selvanaryanan</b> 👋</h1>
-<h3 align="center">🚀 SIH Finalist | AI Engineer | Full-Stack Developer | Civic-Tech Builder | CSBS ’25</h3>
+<h1 align="center">✨ Hey, I’m <b>Varshaa Selvanaryanan</b> 👋</h1>
+<h3 align="center">🚀 SIH Finalist · AI Engineer · Full-Stack Developer · Civic-Tech Builder · CSBS ’25</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varshaa-selva&label=Profile%20Visits&color=ff69b4&style=flat" />
@@ -14,20 +14,20 @@
 
 ## 🌈 About Me  
 
-💡 I turn complex problems into simple, scalable tech solutions.  
-💻 Passionate about **AI x Web**, **civic-tech**, **geospatial intelligence**, and **secure systems**.  
-🛠 Always building something that blends **impact + innovation + simplicity**.
+💡 I turn complex, real-world problems into simple, scalable systems.  
+💻 Deeply curious about **AI x Web**, **civic-tech**, **geospatial intelligence**, and **secure, resilient infra**.  
+🛠 Obsessed with building products where **impact × innovation × simplicity** all align.
 
 ---
 
-## 🤝 Let’s Build Together!
+## 🤝 Let’s Build Together  
 
-- 👯 Open to **full-stack projects**, **ML + Web integrations**, **GovTech & social-impact solutions**
-- 🌐 Portfolio: [**https://varshaa-s.vercel.app**](https://varshaa-s.vercel.app)
-- ✍️ Medium Blogs: [**https://medium.com/@techtaleswithv**](https://medium.com/@techtaleswithv)
-- 📫 Reach me: **varshaaselva@gmail.com**
-- 📄 Resume: [**https://shorturl.at/QAgiS**](https://shorturl.at/QAgiS)
-- ⚡ Fun fact: *My code works at 3 AM. I do not.*
+- 👯 Open to: **full‑stack products**, **ML + Web integrations**, **GovTech & social‑impact systems**
+- 🌐 Portfolio: [**varshaa-s.vercel.app**](https://varshaa-s.vercel.app)
+- ✍️ Long-form: [**TechTalesWithV on Medium**](https://medium.com/@techtaleswithv)
+- 📫 Inbox: **varshaaselva@gmail.com**
+- 📄 Resume: [**View PDF**](https://shorturl.at/QAgiS)
+- ⚡ Fun fact: *At 3 AM, my code ships. I just spectate.*
 
 ---
 
@@ -49,54 +49,53 @@
 
 ## 🚀 Featured Projects  
 
-Here are the projects that shaped me into a *systems thinker + problem solver*:
+> The builds that turned me into a *systems thinker + problem solver*.
 
 ### 🔐 SecureTrack 360 – Blockchain-Based Dual-Use Chemical Monitoring  
 
 **Smart India Hackathon 2024 – Finalist @ Galgotias University**  
-**Tech:** Hyperledger Fabric, IoT, Peptide Tagging, GPS, LiDAR  
+**Stack:** Hyperledger Fabric · IoT · Peptide Tagging · GPS · LiDAR  
 
-- 💬 End-to-end tracking system for high-risk chemicals to prevent illegal diversion  
-- 📌 Immutable ledger + tamper sensors + real-time GPS  
-- 📌 Mobile & web dashboards for manufacturers, buyers, and regulators  
-- 🎯 Strengthened: *IoT integration, blockchain workflows, team leadership*  
+- 💬 End‑to‑end tracking for high‑risk chemicals to stop illegal diversion  
+- 📌 Immutable ledger + tamper sensors + real‑time GPS trail  
+- 📌 Role‑based dashboards for manufacturers, buyers, and regulators  
+- 🎯 Takeaways: *IoT integration, blockchain workflows, high‑stakes team leadership*  
 
 ---
 
-### 🛰️ TechEye – Unauthorized Construction Monitoring using Satellite Imagery  
+### 🛰️ TechEye – Unauthorized Construction Monitoring (Satellite Imagery)  
 
 **3rd Year Hackathon Selection**  
-**Tech:** QGIS, LiDAR DEM, Image Subtraction, ML Change Detection  
+**Stack:** QGIS · LiDAR DEM · Image Subtraction · ML Change Detection  
 
-- 💬 AI-powered platform detecting illegal buildings with no drones or manual inspection  
-- 📌 Detects basements, added floors, land changes  
-- 📌 Flags anomalies with severity + geo-coordinates  
-- 🎯 Role: *Solution Architect + Data Pipeline Engineer*  
+- 💬 AI platform spotting illegal buildings with zero drones/manual patrols  
+- 📌 Detects basements, extra floors, and suspicious land‑use changes  
+- 📌 Flags anomalies with severity scores + geo‑coordinates  
+- 🎯 Role: *Solution Architect & Data Pipeline Engineer*  
 
 ---
 
 ### 🚗 Smart Parking Slot Detection – YOLOv5  
 
-**Tech:** YOLOv5, Python, OpenCV, Real-time Analytics  
+**Stack:** YOLOv5 · Python · OpenCV · Real-time Analytics  
 
-- 💬 Solves urban congestion by detecting LIVE free/occupied parking slots  
-- 📌 Custom dataset + training + inference optimization  
-- 📌 Real-time bounding boxes & slot status  
-- 🎯 Perfect for malls, smart cities, apartments  
+- 💬 Live detection of free vs occupied parking slots to cut congestion  
+- 📌 Custom dataset, tuned training, and optimized inference  
+- 📌 Real‑time bounding boxes & slot‑state overlay  
+- 🎯 Ideal for: *malls, smart‑city projects, gated communities*  
 
 ---
 
 ### ⚖️ JurisLink – Legal Awareness Platform  
 
-**Tech:** Full Stack, Search Engine, Multilingual Support  
+**Stack:** Full Stack · Search Engine · Multilingual UX  
 
-- 💬 Simplifies complex Indian laws into searchable, easy guides  
-- 📌 “Know Your Rights” section for everyday situations  
-- 📌 Smart keyword recommendations  
-- 🎯 Role: *Requirement Analysis → Backend → UI/UX → Search Workflow*  
+- 💬 Converts dense Indian laws into bite‑sized, searchable guidance  
+- 📌 “Know Your Rights” flows for everyday citizen scenarios  
+- 📌 Smart keyword suggestions for non‑lawyers  
+- 🎯 Role: *Requirements → Backend → UI/UX → Search workflow design*  
 
 ---
-
 ## 🧰 Tools, Tech & Magic I Use ✨  
 
 <h3 align="left">Languages & Frameworks</h3>
